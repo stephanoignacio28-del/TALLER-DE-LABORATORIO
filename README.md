@@ -1,1 +1,1 @@
-# TALLER-DE-LABORATORIO
+Taller grupal realizado por Ignacio Rubio el 26 de Marzo de 2026. En este repositorio se presentan los ejercicios del Taller de laboratorio de la clase de programación en python por su complejidad computaconal en notación big O.
